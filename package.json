@@ -21,7 +21,11 @@
   },
   "homepage": "https://github.com/Siser-Pratap/intellitask-backend#readme",
   "dependencies": {
-    "express": "^4.21.0"
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "mongoose": "^8.18.1",
+    "uuid": "^13.0.0"
   },
   "devDependencies": {
     "express": "^5.1.0",
